@@ -1,6 +1,6 @@
 # Ukraine Phone Formatter
 
-[![Gem Version](https://badge.fury.io/rb/ukraine_phone_formatter.svg)](https://rubygems.org/gems/ukraine_phone_formatter)
+[![Gem Version](https://badge.fury.io/rb/ukraine_phone_formatter.svg?icon=si%3Arubygems&icon_color=%23ffffff)](https://rubygems.org/gems/ukraine_phone_formatter)
 [![GitHub Stars](https://img.shields.io/github/stars/stkossman/ukraine_phone_formatter?style=social)](https://github.com/stkossman/ukraine_phone_formatter)
 
 **Ukraine Phone Formatter** is a simple Ruby gem that formats Ukrainian phone numbers into a readable and standardized format.
