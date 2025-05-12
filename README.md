@@ -44,5 +44,8 @@ All valid numbers are formatted in the following way:
 ```
 Invalid or unsupported numbers are returned as-is.
 
+## License
+This project is licensed under the [MIT License](LICENSE)
+
 ## Development
 Feel free to fork or contribute.
